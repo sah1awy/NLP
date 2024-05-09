@@ -1,0 +1,11 @@
+spacy -> en_core_web_lg
+
+jenism -> word2vec-google-news-300
+
+seaborn
+
+pandas
+
+numpy 
+
+scikit-learn
